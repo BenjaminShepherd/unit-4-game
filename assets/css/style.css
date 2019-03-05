@@ -1,0 +1,56 @@
+body {
+    background-image: url(../images/intersection.png)
+}
+
+p {
+    background-color: red;
+   color: white;
+    line-height: 20px;
+    font-size: 20px;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    background-color: purple;
+    font-size: 30px;
+    width: 600px;
+    color: wheat;
+    padding: 30px;
+}
+
+.scoreboard {
+    font-size: 30px;
+    background-color: green;
+    color: black;
+    padding: 20px;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#total-score {
+    width: 250px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+}
+.crystals {
+    
+    display: inline;
+    
+    width: 150px;
+}
+
+header {
+    margin-left: 0;
+    background-color: orange;
+    padding: 70px;
+    width: 33%;
+    text-align: center;
+    font-size: 36px;
+}
+
